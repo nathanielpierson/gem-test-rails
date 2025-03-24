@@ -55,5 +55,5 @@ group :test do
   gem "capybara"
   gem "selenium-webdriver"
 end
-
-gem "streamed_time"
+gem "http"
+# gem "streamed_time"
