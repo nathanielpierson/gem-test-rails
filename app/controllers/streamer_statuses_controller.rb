@@ -1,0 +1,2 @@
+class StreamerStatusesController < ApplicationController
+end
